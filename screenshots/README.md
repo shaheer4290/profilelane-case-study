@@ -1,7 +1,13 @@
 # Screenshots
 
-The following screenshots will be added:
+## Dashboard
+![Dashboard](dashboard.png)
+The user dashboard: upload a CV and review the AI-generated draft.
 
-1. Dashboard view — user's CV upload and draft review interface
-2. CV extraction flow — the AI parsing step and resulting structured draft
-3. Published profile — an example of a live ProfileLane subdomain
+## AI Extraction
+![AI Extraction](extraction.png)
+The extraction result: structured fields for experience, education, skills, and projects.
+
+## Published Profile
+![Published Profile](published-profile.png)
+An example of a live ProfileLane profile on a personal subdomain.

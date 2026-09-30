@@ -41,6 +41,12 @@ See technical-challenges.md for details.
 
 Live. Onboarding first users manually to ensure quality.
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![AI Extraction](screenshots/extraction.png)
+![Published Profile](screenshots/published-profile.png)
+
 ## Note on Source Code
 
 The source code is private because ProfileLane is a commercial product. This repository documents the architecture and technical decisions behind the product.
